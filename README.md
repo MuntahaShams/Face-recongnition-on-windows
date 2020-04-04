@@ -8,12 +8,12 @@ Python installation link: https://www.python.org/downloads/release/python-353/ '
 3.Download Visual Studio community edition: https://visualstudio.microsoft.com/downloads/
 
 4.Go to command prompt:
-easy_install pillow
-python -m pip install --upgrade pip
-pip install Cmake
-pip install face_recognition
-pip install opencv-python
-pip install flask
+easy_install pillow<br>
+python -m pip install --upgrade pip<br>
+pip install Cmake<br>
+pip install face_recognition<br>
+pip install opencv-python<br>
+pip install flask<br>
 
 
 IF YOU PEOPLE HAVE TROUBLE IN UNDERSTANDING THE WRITTEN VERSION WE'VE A VIDEO AS WELL:
